@@ -1,2 +1,2 @@
 # Proyect2
-prueba2
+Proyecto para la asignatura de PGY Hola Mundo
